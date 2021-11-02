@@ -4,3 +4,4 @@
 *.pb
 *.prototxt
 .ipynb_checkpoints
+*.avi
