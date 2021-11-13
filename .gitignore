@@ -5,3 +5,4 @@
 *.prototxt
 .ipynb_checkpoints
 *.avi
+*.pkl
